@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Network Marketing | Business</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f5f5f5;
+      color: #333;
+    }
+    header {
+      background-color: #2b6777;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background-color: #52ab98;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      text-decoration: none;
+      margin: 0 15px;
+      font-weight: bold;
+    }
+    .section {
+      padding: 40px;
+      max-width: 1000px;
+      margin: auto;
+    }
+    .section h2 {
+      color: #2b6777;
+    }
+    footer {
+      background-color: #2b6777;
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Network Marketing</h1>
+    <p>Empowering You to Build a Business That Works</p>
+  </header>
+  <nav>
+    <a href="#about">About</a>
+    <a href="#services">Services</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section class="section" id="about">
+    <h2>About Us</h2>
+    <p>
+      Welcome to Network Marketing — your trusted guide to building a sustainable and profitable business through personal connections and powerful strategies. We are passionate about helping individuals succeed in the network marketing industry through mentorship, training, and access to valuable tools.
+    </p>
+  </section>
+
+  <section class="section" id="services">
+    <h2>What We Offer</h2>
+    <ul>
+      <li>Step-by-step training programs</li>
+      <li>One-on-one mentorship</li>
+      <li>Sales and marketing tools</li>
+      <li>Motivational resources</li>
+      <li>Team-building techniques</li>
+    </ul>
+  </section>
+
+  <section class="section" id="contact">
+    <h2>Contact Us</h2>
+    <p>Email: info@networkmarketing.com</p>
+    <p>Phone: +254 700 000000</p>
+    <p>Follow us on <a href="#" style="color: #2b6777; font-weight: bold;">LinkedIn</a>, <a href="#" style="color: #2b6777; font-weight: bold;">Instagram</a>, and <a href="#" style="color: #2b6777; font-weight: bold;">Facebook</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Network Marketing. All rights reserved.</p>
+  </footer>
+</body>
+</html>
