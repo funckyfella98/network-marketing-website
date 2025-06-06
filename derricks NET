@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Derrick Kaira - Network Marketing</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      margin: 0;
+      padding: 0;
+      color: #333;
+      text-align: center;
+    }
+    header {
+      background: #005f73;
+      color: white;
+      padding: 40px 20px;
+    }
+    img {
+      border-radius: 10px;
+      width: 200px;
+      margin: 20px auto;
+      display: block;
+    }
+    section {
+      padding: 20px;
+    }
+    footer {
+      background: #0a9396;
+      color: white;
+      padding: 20px;
+    }
+    a {
+      color: #ee9b00;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Derrick Kaira</h1>
+    <p>Network Marketing | Entrepreneur | Team Builder</p>
+  </header>
+
+  <img src="WhatsApp Image 2025-06-06 at 08.24.05.jpeg" alt="Derrick Kaira">
+
+  <section>
+    <h2>About Me</h2>
+    <p>Welcome! I’m Derrick Kaira, passionate about helping others grow through network marketing. I focus on building strong connections and empowering teams to succeed in the digital age.</p>
+
+    <h2>Contact Me</h2>
+    <p>Email: <a href="mailto:derrickmaina776@gmail.com">derrickmaina776@gmail.com</a></p>
+    <p>Phone: <a href="tel:+254741674690">+254 741 674 690</a></p>
+    <p>TikTok: <a href="https://tiktok.com/@funky_fella5" target="_blank">@funky_fella5</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Derrick Kaira. All rights reserved.</p>
+  </footer>
+</body>
+</html>
